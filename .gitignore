@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# TensorFlow Models
+*.h5
+
+# DS_Store
+*.DS_Store
